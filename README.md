@@ -1,4 +1,5 @@
-# ChatGPT 101: Unleashing the Power of AI Conversations
+# Java and ChatGPT
 
-## Boston Java User Group, September 12, 2023 
+Example code for speaking opportunities.
 
+Check out [Node ChatGPT](https://github.com/DavidLozzi/nodejs-chatgpt) and [Python ChatGPT](https://github.com/DavidLozzi/python-gpt)
